@@ -1,0 +1,7 @@
+.Burger {
+  width: 60%;
+  height: 250px;
+  margin: auto;
+  overflow: scroll;
+  text-align: center;
+}
